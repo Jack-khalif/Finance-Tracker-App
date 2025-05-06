@@ -36,9 +36,9 @@ This project helped me bridge the gap between backend and frontend development, 
 
 ## Screenshots
 
-Below is a screenshot of the Finance Tracker App running locally:
+[Below is a screenshot of the Finance Tracker App running locally:
 
-https://github.com/Jack-khalif/Finance-Tracker-App/blob/main/Finance%20tracker1.png
+(https://github.com/Jack-khalif/Finance-Tracker-App/blob/main/finance-tracker1.png)
 ---
 
 ## Installation
