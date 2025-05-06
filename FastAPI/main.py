@@ -60,3 +60,6 @@ def create_transaction(transaction: TransactionBase, db: Session = Depends(get_d
 @app.get("/transactions/", response_model=List[TransactionResponse])
 def get_transactions(skip: int = 0, limit: int = 100, db: Session = Depends(get_db)):
     return db.query(Transaction).order_by(Transaction.date.desc()).offset(skip).limit(limit).all()
+@app.get("/")
+def root():
+    return {"message": "Welcome to the Finance Tracker API!"}
