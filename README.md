@@ -38,7 +38,7 @@ This project helped me bridge the gap between backend and frontend development, 
 
 Below is a screenshot of the Finance Tracker App running locally:
 
-![Finance Tracker App - Local Preview](./path-to-screenshot/finance-tracker-screenshot.png)
+![Finance Tracker App - Local Preview](finance tracker1.png)
 
 
 ---
